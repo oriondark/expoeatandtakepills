@@ -1,0 +1,122 @@
+{
+    "standarddosingtimes": [
+        {
+            "interval": "daily",
+            "tod": [
+                "0900"
+            ]
+        },
+        {
+            "interval": "2 times a day (BID) ",
+            "tod": [
+                "0900",
+                "2100"
+            ]
+        },
+        {
+            "interval": "3 times a day (TID)",
+            "tod": [
+                "0900",
+                "1400",
+                "2100"
+            ]
+        },
+        {
+            "interval": "3 times a day (TID-Psych)",
+            "tod": [
+                "0800",
+                "1200",
+                "1700"
+            ]
+        },
+        {
+            "interval": "4 times a day (QID)",
+            "tod": [
+                "0900",
+                "1300",
+                "1700",
+                "2100"
+            ]
+        },
+        {
+            "interval": "5 times a day",
+            "tod": [
+                "0500",
+                "0900",
+                "1300",
+                "1700",
+                "2100"
+            ]
+        },
+        {
+            "interval": "Every 3 hours",
+            "tod": [
+                "0000",
+                "0300",
+                "0600",
+                "0900",
+                "1200",
+                "1500",
+                "1800",
+                "2100"
+            ]
+        },
+        {
+            "interval": "Every 4 hours",
+            "tod": [
+                "0100",
+                "0500",
+                "0900",
+                "1300",
+                "1700",
+                "2100"
+            ]
+        },
+        {
+            "interval": "Every 6 hours",
+            "tod": [
+                "0600",
+                "1200",
+                "1800",
+                "2400"
+            ]
+        },
+        {
+            "interval": "Every 8 hours",
+            "tod": [
+                "0800",
+                "1600",
+                "2400"
+            ]
+        },
+        {
+            "interval": "Every 12 hours",
+            "tod": [
+                "0900",
+                "2100"
+            ]
+        },
+        {
+            "interval": "Bedtime",
+            "tod": [
+                "2100"
+            ]
+        },
+        {
+            "interval": "With meals",
+            "tod": [
+                "0800",
+                "1200",
+                "1700"
+            ]
+        },
+        {
+            "interval": "With meals and at bedtime",
+            "tod": [
+                "1200",
+                "1700",
+                "2100"
+            ]
+        }
+    ]
+}

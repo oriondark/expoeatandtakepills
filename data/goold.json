@@ -1,0 +1,616 @@
+{
+    "profileid": "68.68.68.68",
+    "name": "Antpsychadelic",
+    "prescriptions": [
+        {
+            "prescriptionid": "68.68.68.68",
+            "medication": {
+                "medicationid": "49702-209_bd0a3b2a-cb86-4a9f-badc-4f9f8037dc18",
+                "medicationame": "RESCRIPTOR",
+                "medicationdosage": "1",
+                "medicationdosagetype": "TABLET",
+                "medicationmusttakewithfood": true,
+                "medicationmusttakewithoutfood": true,
+                "medicationmeasuredamount": "Hornmirror",
+                "medicationndc": "49702-209",
+                "medicationclass": "Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],Non-Nucleoside Analog [Chemical/Ingredient],Non-Nucleoside Reverse Transcriptase Inhibitors [MoA]",
+                "medicationimage": "",
+                "medicationoverview": "One dog rolled before him, well-nigh slashed in half; but a second had him by the thigh, a third gripped his collar be- hind, and a fourth had the blade of the sword between its teeth, tasting its own blood.",
+                "medicationsideeffects": "One dog rolled before him, well-nigh slashed in half; but a second had him by the thigh, a third gripped his collar be- hind, and a fourth had the blade of the sword between its teeth, tasting its own blood.",
+                "medicationfaq": "One dog rolled before him, well-nigh slashed in half; but a second had him by the thigh, a third gripped his collar be- hind, and a fourth had the blade of the sword between its teeth, tasting its own blood.",
+                "medicationdosageformname": "TABLET",
+                "medicationingredientunit": "mg/1",
+                "medicationstrength": "100",
+                "medicationsubstances": "DELAVIRDINE MESYLATE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "19:31",
+                    "20:55",
+                    "20:55",
+                    "20:55"
+                ]
+            },
+            "taken": {
+                "takentime": "Sunday 15 Jul 2018"
+            },
+            "prescriber": {
+                "prescriberid": "54.54.54.54",
+                "prescribername": "Fighterrune",
+                "prescriberstreet": "364 fighter",
+                "prescribercity": "Campden",
+                "prescriberstate": "MD",
+                "prescriberpostcode": "76946",
+                "prescriberimage": "",
+                "prescriberphone": "+351 0 65069 6 68 0 4",
+                "prescriberlatitude": 118.26080701027419,
+                "prescriberlongitude": 118.26080701027419
+            },
+            "pharmacy": {
+                "pharmacyid": "75.75.75.75",
+                "pharmacyname": "Fighterrune",
+                "pharmacystreet": "364 fighter",
+                "pharmacycity": "Burrton",
+                "pharmacystate": "MD",
+                "pharmacypostcode": "76946",
+                "pharmacyimage": "",
+                "pharmacyphone": "+351 0 65069 6 68 0 4",
+                "pharmacylatitude": 92.01534154813807,
+                "pharmacylongitude": 118.26080701027419
+            }
+        },
+        {
+            "prescriptionid": "1.1.1.1",
+            "medication": {
+                "medicationid": "53329-680_6156618e-db3d-2f08-e053-2a91aa0a545e",
+                "medicationame": "Natural Vegetable Laxative with Stool Softener",
+                "medicationdosage": "3",
+                "medicationdosagetype": "TABLET",
+                "medicationmusttakewithfood": true,
+                "medicationmusttakewithoutfood": true,
+                "medicationmeasuredamount": "Stalliongem",
+                "medicationndc": "53329-680",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "He spoke of the happiness that was now certainly theirs, of the folly of not breaking sooner out of that magnificent prison of latter-day life, of the old romantic days that had passed from the world for ever.",
+                "medicationsideeffects": "He spoke of the happiness that was now certainly theirs, of the folly of not breaking sooner out of that magnificent prison of latter-day life, of the old romantic days that had passed from the world for ever.",
+                "medicationfaq": "He spoke of the happiness that was now certainly theirs, of the folly of not breaking sooner out of that magnificent prison of latter-day life, of the old romantic days that had passed from the world for ever.",
+                "medicationdosageformname": "TABLET",
+                "medicationingredientunit": "mg/1; mg/1",
+                "medicationstrength": "8.6; 50",
+                "medicationsubstances": "SENNOSIDES; DOCUSATE SODIUM"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "22:3",
+                    "22:3",
+                    "22:3",
+                    "22:3"
+                ]
+            },
+            "taken": {
+                "takentime": "Saturday 29 Mar 2018"
+            },
+            "prescriber": {
+                "prescriberid": "20.20.20.20",
+                "prescribername": "Bisonsnow",
+                "prescriberstreet": "126 bison",
+                "prescribercity": "Skidaway Island",
+                "prescriberstate": "MI",
+                "prescriberpostcode": "26853",
+                "prescriberimage": "",
+                "prescriberphone": "+238 06 59633 0 3 09",
+                "prescriberlatitude": 173.80800638729337,
+                "prescriberlongitude": 173.80800638729337
+            },
+            "pharmacy": {
+                "pharmacyid": "20.20.20.20",
+                "pharmacyname": "Stalliongem",
+                "pharmacystreet": "435 stallion",
+                "pharmacycity": "Skidaway Island",
+                "pharmacystate": "NM",
+                "pharmacypostcode": "97085",
+                "pharmacyimage": "",
+                "pharmacyphone": "+507 8 11966345 5 4",
+                "pharmacylatitude": 19.90070474972018,
+                "pharmacylongitude": 19.90070474972018
+            }
+        },
+        {
+            "prescriptionid": "11.11.11.8",
+            "medication": {
+                "medicationid": "62106-1144_5aa7db26-8b27-6737-e053-2a91aa0a8416",
+                "medicationame": "Unda 45",
+                "medicationdosage": "2",
+                "medicationdosagetype": "LIQUID",
+                "medicationmusttakewithfood": false,
+                "medicationmusttakewithoutfood": false,
+                "medicationmeasuredamount": "Lizardnight",
+                "medicationndc": "62106-1144",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationsideeffects": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationfaq": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationdosageformname": "LIQUID",
+                "medicationingredientunit": "[hp_X]/20mL; [hp_X]/20mL; [hp_X]/20mL; [hp_X]/20mL; [hp_X]/20mL; [hp_X]/20mL; [hp_X]/20mL",
+                "medicationstrength": "5; 5; 5; 5; 5; 12; 12",
+                "medicationsubstances": "SAXIFRAGA GRANULATA WHOLE; EQUISETUM ARVENSE TOP; ACHILLEA MILLEFOLIUM; SOLANUM DULCAMARA TOP; ARCTOSTAPHYLOS UVA-URSI LEAF; TIN; SILVER"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "13:25",
+                    "13:25",
+                    "13:25",
+                    "13:25"
+                ]
+            },
+            "taken": {
+                "takentime": "Sunday 8 Sep 2018"
+            },
+            "prescriber": {
+                "prescriberid": "189.189.189.189",
+                "prescribername": "Scorpionwest",
+                "prescriberstreet": "339 scorpion",
+                "prescribercity": "Berkhamsted",
+                "prescriberstate": "DC",
+                "prescriberpostcode": "00081",
+                "prescriberimage": "",
+                "prescriberphone": "+20 11 231 24993 85",
+                "prescriberlatitude": 145.3068218081558,
+                "prescriberlongitude": 145.3068218081558
+            },
+            "pharmacy": {
+                "pharmacyid": "94.94.94.94",
+                "pharmacyname": "Scorpionwest",
+                "pharmacystreet": "339 scorpion",
+                "pharmacycity": "Hoonah",
+                "pharmacystate": "DC",
+                "pharmacypostcode": "00081",
+                "pharmacyimage": "",
+                "pharmacyphone": "+20 11 231 24993 85",
+                "pharmacylatitude": 22.23488530119968,
+                "pharmacylongitude": 22.23488530119968
+            }
+        },
+        {
+            "prescriptionid": "149.149.149.149",
+            "medication": {
+                "medicationid": "48951-3190_42733955-43c5-4c69-93e6-940205b742b3",
+                "medicationame": "Cuprum 12 Special Order",
+                "medicationdosage": "3",
+                "medicationdosagetype": "PELLET",
+                "medicationmusttakewithfood": false,
+                "medicationmusttakewithoutfood": false,
+                "medicationmeasuredamount": "Warlocklime",
+                "medicationndc": "48951-3190",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationsideeffects": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationfaq": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationdosageformname": "PELLET",
+                "medicationingredientunit": "[hp_X]/1",
+                "medicationstrength": "12",
+                "medicationsubstances": "COPPER"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "12:58",
+                    "12:42",
+                    "13:42",
+                    "13:42"
+                ]
+            },
+            "taken": {
+                "takentime": "Saturday 20 Feb 2018"
+            },
+            "prescriber": {
+                "prescriberid": "126.126.126.126",
+                "prescribername": "Turnersharp",
+                "prescriberstreet": "216 turner",
+                "prescribercity": "Berkhamsted",
+                "prescriberstate": "CO",
+                "prescriberpostcode": "69555",
+                "prescriberimage": "",
+                "prescriberphone": "+1 649 2 866792989",
+                "prescriberlatitude": 51.612223139684744,
+                "prescriberlongitude": 51.612223139684744
+            },
+            "pharmacy": {
+                "pharmacyid": "74.126.126.126",
+                "pharmacyname": "Turnersharp",
+                "pharmacystreet": "216 turner",
+                "pharmacycity": "Berkhamsted",
+                "pharmacystate": "CO",
+                "pharmacypostcode": "69555",
+                "pharmacyimage": "",
+                "pharmacyphone": "+1 649 2 866792989",
+                "pharmacylatitude": 51.612223139684744,
+                "pharmacylongitude": 51.612223139684744
+            }
+        },
+        {
+            "prescriptionid": "1.1.1.74",
+            "medication": {
+                "medicationid": "57243-560_29772e61-38ce-4dff-b9a9-dccb172c2bad",
+                "medicationame": "Cold-Flu Relief",
+                "medicationdosage": "2",
+                "medicationdosagetype": "TABLET",
+                "medicationmusttakewithfood": true,
+                "medicationmusttakewithoutfood": true,
+                "medicationmeasuredamount": "Traderlightning",
+                "medicationndc": "57243-560",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationsideeffects": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationfaq": "The secular cooling that must someday overtake our planet has already gone far indeed with our neighbour.",
+                "medicationdosageformname": "TABLET",
+                "medicationingredientunit": "mg/1; mg/1; mg/1",
+                "medicationstrength": "325; 10; 5",
+                "medicationsubstances": "ACETAMINOPHEN; DEXTROMETHORPHAN HYDROBROMIDE; PHENYLEPHRINE HYDROCHLORIDE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "20:15",
+                    "20:15",
+                    "20:15",
+                    "20:15"
+                ]
+            },
+            "taken": {
+                "takentime": "Thursday 7 May 2018"
+            },
+            "prescriber": {
+                "prescriberid": "133.133.133.133",
+                "prescribername": "Traderlightning",
+                "prescriberstreet": "463 trader",
+                "prescribercity": "Burrton",
+                "prescriberstate": "GU",
+                "prescriberpostcode": "70464",
+                "prescriberimage": "",
+                "prescriberphone": "+61 38 470 33508 8 2",
+                "prescriberlatitude": 83.4357535312556,
+                "prescriberlongitude": 83.4357535312556
+            },
+            "pharmacy": {
+                "pharmacyid": "133.133.133.133",
+                "pharmacyname": "Traderlightning",
+                "pharmacystreet": "463 trader",
+                "pharmacycity": "Burrton",
+                "pharmacystate": "GU",
+                "pharmacypostcode": "70464",
+                "pharmacyimage": "",
+                "pharmacyphone": "+61 38 470 33508 8 2",
+                "pharmacylatitude": 83.4357535312556,
+                "pharmacylongitude": 83.4357535312556
+            }
+        },
+        {
+            "prescriptionid": "28.28.28.28",
+            "medication": {
+                "medicationid": "0536-1003_d22db5f2-49d3-409e-a460-4e09b53f90f8",
+                "medicationame": "ACETA-GESIC",
+                "medicationdosage": "3",
+                "medicationdosagetype": "TABLET, COATED",
+                "medicationmusttakewithfood": false,
+                "medicationmusttakewithoutfood": false,
+                "medicationmeasuredamount": "Dancerholy",
+                "medicationndc": "0536-1003",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationsideeffects": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationfaq": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationdosageformname": "TABLET, COATED",
+                "medicationingredientunit": "mg/1; mg/1",
+                "medicationstrength": "325; 12.5",
+                "medicationsubstances": "ACETAMINOPHEN; DIPHENHYDRAMINE HYDROCHLORIDE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "10:18",
+                    "10:18",
+                    "10:18",
+                    "10:18"
+                ]
+            },
+            "taken": {
+                "takentime": "Wednesday 28 Jan 2018"
+            },
+            "prescriber": {
+                "prescriberid": "17.17.17.17",
+                "prescribername": "Eaglebitter",
+                "prescriberstreet": "536 eagle",
+                "prescribercity": "Brandwell",
+                "prescriberstate": "NY",
+                "prescriberpostcode": "51959",
+                "prescriberimage": "",
+                "prescriberphone": "+7 962 7581438 47 3",
+                "prescriberlatitude": 153.2741034360335,
+                "prescriberlongitude": 85.40286910117753
+            },
+            "pharmacy": {
+                "pharmacyid": "17.17.17.17",
+                "pharmacyname": "Dancerholy",
+                "pharmacystreet": "122 dancer",
+                "pharmacycity": "Brandwell",
+                "pharmacystate": "AS",
+                "pharmacypostcode": "80296",
+                "pharmacyimage": "",
+                "pharmacyphone": "+262 003 60329 1 4 7",
+                "pharmacylatitude": 153.2741034360335,
+                "pharmacylongitude": 153.2741034360335
+            }
+        },
+        {
+            "prescriptionid": "66.66.66.66",
+            "medication": {
+                "medicationid": "0113-0668_9e05da42-6f93-4305-b7da-2eb6bd41e8c2",
+                "medicationame": "Good Sense Nighttime Cough",
+                "medicationdosage": "3",
+                "medicationdosagetype": "SOLUTION",
+                "medicationmusttakewithfood": false,
+                "medicationmusttakewithoutfood": false,
+                "medicationmeasuredamount": "Apetiny",
+                "medicationndc": "0113-0668",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationsideeffects": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationfaq": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationdosageformname": "SOLUTION",
+                "medicationingredientunit": "mg/30mL; mg/30mL",
+                "medicationstrength": "30; 12.5",
+                "medicationsubstances": "DEXTROMETHORPHAN HYDROBROMIDE; DOXYLAMINE SUCCINATE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "17:54",
+                    "17:54",
+                    "17:22",
+                    "4:22"
+                ]
+            },
+            "taken": {
+                "takentime": "Thursday 15 May 2018"
+            },
+            "prescriber": {
+                "prescriberid": "57.57.57.57",
+                "prescribername": "Crownlavender",
+                "prescriberstreet": "362 crown",
+                "prescribercity": "Brandwell",
+                "prescriberstate": "OR",
+                "prescriberpostcode": "21062",
+                "prescriberimage": "",
+                "prescriberphone": "+386 3 1032586949",
+                "prescriberlatitude": 177.1427160621526,
+                "prescriberlongitude": 177.1427160621526
+            },
+            "pharmacy": {
+                "pharmacyid": "140.57.57.57",
+                "pharmacyname": "Crownlavender",
+                "pharmacystreet": "362 crown",
+                "pharmacycity": "Brandwell",
+                "pharmacystate": "OR",
+                "pharmacypostcode": "21062",
+                "pharmacyimage": "",
+                "pharmacyphone": "+386 3 1032586949",
+                "pharmacylatitude": 177.1427160621526,
+                "pharmacylongitude": 177.1427160621526
+            }
+        },
+        {
+            "prescriptionid": "16.16.16.16",
+            "medication": {
+                "medicationid": "54838-115_872f592b-cfb7-4e5d-9cc9-b625da8a22f4",
+                "medicationame": "Pediatric Cough and Cold Medicine",
+                "medicationdosage": "1",
+                "medicationdosagetype": "LIQUID",
+                "medicationmusttakewithfood": false,
+                "medicationmusttakewithoutfood": false,
+                "medicationmeasuredamount": "Lanternfortune",
+                "medicationndc": "54838-115",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "It was at this time that the meeting, or, rather gathering of the mem- bers of this inharmonious family took place in the cell of the elder who had such an extraordinary influence on Alyosha.",
+                "medicationsideeffects": "It was at this time that the meeting, or, rather gathering of the mem- bers of this inharmonious family took place in the cell of the elder who had such an extraordinary influence on Alyosha.",
+                "medicationfaq": "It was at this time that the meeting, or, rather gathering of the mem- bers of this inharmonious family took place in the cell of the elder who had such an extraordinary influence on Alyosha.",
+                "medicationdosageformname": "LIQUID",
+                "medicationingredientunit": "mg/5mL; mg/5mL; mg/5mL",
+                "medicationstrength": "1; 15; 5",
+                "medicationsubstances": "CHLORPHENIRAMINE MALEATE; PSEUDOEPHEDRINE HYDROCHLORIDE; DEXTROMETHORPHAN HYDROBROMIDE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "7:26",
+                    "7:26",
+                    "7:26",
+                    "1:33"
+                ]
+            },
+            "taken": {
+                "takentime": "Saturday 22 Aug 2018"
+            },
+            "prescriber": {
+                "prescriberid": "78.78.78.78",
+                "prescribername": "Boltpaper",
+                "prescriberstreet": "43 bolt",
+                "prescribercity": "Plympton",
+                "prescriberstate": "NH",
+                "prescriberpostcode": "64364",
+                "prescriberimage": "",
+                "prescriberphone": "+1 22 2047760 5 257",
+                "prescriberlatitude": 88.17606344630755,
+                "prescriberlongitude": 88.17606344630755
+            },
+            "pharmacy": {
+                "pharmacyid": "78.78.78.78",
+                "pharmacyname": "Boltpaper",
+                "pharmacystreet": "43 bolt",
+                "pharmacycity": "Plympton",
+                "pharmacystate": "NH",
+                "pharmacypostcode": "64364",
+                "pharmacyimage": "",
+                "pharmacyphone": "+1 22 2047760 5 257",
+                "pharmacylatitude": 88.17606344630755,
+                "pharmacylongitude": 88.17606344630755
+            }
+        },
+        {
+            "prescriptionid": "13.13.13.13",
+            "medication": {
+                "medicationid": "49035-131_5693b0b2-ec0d-49c4-ad67-ef03b93b64a5",
+                "medicationame": "Equate Suphedrine PE",
+                "medicationdosage": "2",
+                "medicationdosagetype": "TABLET",
+                "medicationmusttakewithfood": true,
+                "medicationmusttakewithoutfood": true,
+                "medicationmeasuredamount": "Slaverazor",
+                "medicationndc": "49035-131",
+                "medicationclass": "",
+                "medicationimage": "",
+                "medicationoverview": "The sun set; the dusk fell on the stream, and lights began to appear along the shore. The Chapman light–house, a three–legged thing erect on a mud–flat, shone strongly.",
+                "medicationsideeffects": "The sun set; the dusk fell on the stream, and lights began to appear along the shore. The Chapman light–house, a three–legged thing erect on a mud–flat, shone strongly.",
+                "medicationfaq": "The sun set; the dusk fell on the stream, and lights began to appear along the shore. The Chapman light–house, a three–legged thing erect on a mud–flat, shone strongly.",
+                "medicationdosageformname": "TABLET",
+                "medicationingredientunit": "mg/1",
+                "medicationstrength": "10",
+                "medicationsubstances": "PHENYLEPHRINE HYDROCHLORIDE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "21:13",
+                    "21:13",
+                    "21:13",
+                    "21:13"
+                ]
+            },
+            "taken": {
+                "takentime": "Tuesday 17 Aug 2018"
+            },
+            "prescriber": {
+                "prescriberid": "43.43.43.43",
+                "prescribername": "Slaverazor",
+                "prescriberstreet": "243 slave",
+                "prescribercity": "Ransom Canyon",
+                "prescriberstate": "PW",
+                "prescriberpostcode": "43731",
+                "prescriberimage": "",
+                "prescriberphone": "+971 42 423560 72 1",
+                "prescriberlatitude": 78.86960702009036,
+                "prescriberlongitude": 78.86960702009036
+            },
+            "pharmacy": {
+                "pharmacyid": "43.43.43.43",
+                "pharmacyname": "Slaverazor",
+                "pharmacystreet": "243 slave",
+                "pharmacycity": "Ransom Canyon",
+                "pharmacystate": "PW",
+                "pharmacypostcode": "43731",
+                "pharmacyimage": "",
+                "pharmacyphone": "+971 42 423560 72 1",
+                "pharmacylatitude": 78.86960702009036,
+                "pharmacylongitude": 78.86960702009036
+            }
+        },
+        {
+            "prescriptionid": "43.43.43.43",
+            "medication": {
+                "medicationid": "31722-901_5ac8bdbe-355f-4271-a45b-cf38522e787d",
+                "medicationame": "clopidogrel",
+                "medicationdosage": "3",
+                "medicationdosagetype": "TABLET, FILM COATED",
+                "medicationmusttakewithfood": true,
+                "medicationmusttakewithoutfood": true,
+                "medicationmeasuredamount": "Pegasuswool",
+                "medicationndc": "31722-901",
+                "medicationclass": "Decreased Platelet Aggregation [PE],P2Y12 Platelet Inhibitor [EPC],P2Y12 Receptor Antagonists [MoA],Cytochrome P450 2C8 Inhibitors [MoA]",
+                "medicationimage": "",
+                "medicationoverview": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationsideeffects": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationfaq": "He completely abandoned the child of his marriage with Adelaida Ivanovna, not from malice, nor because of his matrimoni- al grievances, but simply because he forgot him.",
+                "medicationdosageformname": "TABLET, FILM COATED",
+                "medicationingredientunit": "mg/1",
+                "medicationstrength": "75",
+                "medicationsubstances": "CLOPIDOGREL BISULFATE"
+            },
+            "standardschedule": {
+                "standardinterval": "",
+                "time": null
+            },
+            "schedule": {
+                "time": [
+                    "13:14",
+                    "13:14",
+                    "13:14",
+                    "13:14"
+                ]
+            },
+            "taken": {
+                "takentime": "Wednesday 9 Aug 2018"
+            },
+            "prescriber": {
+                "prescriberid": "74.74.74.74",
+                "prescribername": "Pegasuswool",
+                "prescriberstreet": "339 weed",
+                "prescribercity": "Burrton",
+                "prescriberstate": "MO",
+                "prescriberpostcode": "97702",
+                "prescriberimage": "",
+                "prescriberphone": "+1 868 90 642 61 24 3",
+                "prescriberlatitude": 50.028181108032705,
+                "prescriberlongitude": 50.028181108032705
+            },
+            "pharmacy": {
+                "pharmacyid": "74.74.74.74",
+                "pharmacyname": "Pegasuswool",
+                "pharmacystreet": "239 pegasus",
+                "pharmacycity": "Burrton",
+                "pharmacystate": "MO",
+                "pharmacypostcode": "97702",
+                "pharmacyimage": "",
+                "pharmacyphone": "+1 868 90 642 61 24 3",
+                "pharmacylatitude": 50.028181108032705,
+                "pharmacylongitude": 50.028181108032705
+            }
+        }
+    ]
+}
